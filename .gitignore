@@ -1,0 +1,7 @@
+*.ipynb
+data/
+.idea/
+/.gitmessage.txt
+__pycache__/
+langchain_venv/
+.gitmessage.txt
